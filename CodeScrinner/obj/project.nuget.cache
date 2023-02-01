@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GxeyWR1d2pj3Z+mHInfGKUnLSXnKhoAY1Rl0Lc6WK3LWvn+kyCyWZzKmkTda+D4HKklqn4vqeNwImPWb/wZkow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\errorvdept\\source\\repos\\CodeScrinner\\CodeScrinner\\CodeScrinner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\errorvdept\\.nuget\\packages\\corehtmltoimage\\1.0.6\\corehtmltoimage.1.0.6.nupkg.sha512",
+    "C:\\Users\\errorvdept\\.nuget\\packages\\hardcodet.notifyicon.wpf\\1.1.0\\hardcodet.notifyicon.wpf.1.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

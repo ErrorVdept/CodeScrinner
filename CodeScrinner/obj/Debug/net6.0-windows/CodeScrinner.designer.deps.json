@@ -1,0 +1,43 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CoreHtmlToImage/1.0.6": {
+        "runtime": {
+          "lib/netstandard2.0/CoreHtmlToImage.dll": {
+            "assemblyVersion": "1.0.6.0",
+            "fileVersion": "1.0.6.0"
+          }
+        }
+      },
+      "Hardcodet.NotifyIcon.Wpf/1.1.0": {
+        "runtime": {
+          "lib/net5.0-windows7.0/Hardcodet.NotifyIcon.Wpf.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.0.17"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CoreHtmlToImage/1.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-O5TZhjxIV4T3ayZPLJqLQ/KFhu5NllrLqKi+YbKbmjLs11fPGAxrZkidYAvOSCTFqlEJ92AQX0Epb8m2Q4EH7Q==",
+      "path": "corehtmltoimage/1.0.6",
+      "hashPath": "corehtmltoimage.1.0.6.nupkg.sha512"
+    },
+    "Hardcodet.NotifyIcon.Wpf/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FFEkdRSidMrbMfQVwhCzq6KtSyR1qQojqtiUrkCyjnOOuMf7W3TNQkzFnBBxYxFe7uLk5mz7M38wFh1qdWyfvg==",
+      "path": "hardcodet.notifyicon.wpf/1.1.0",
+      "hashPath": "hardcodet.notifyicon.wpf.1.1.0.nupkg.sha512"
+    }
+  }
+}
