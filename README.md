@@ -15,9 +15,7 @@ Download .exe and install
 
 - Run application
 - Copy text or code to clipboard
-```
-Press CTRL + HOME buttons
-```
+- Press GENERATE button in software
 - Save screenshot to pc
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
