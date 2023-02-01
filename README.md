@@ -11,6 +11,16 @@ Random background gradient and terminal styling will make your screenshot a plea
 
 Download .exe and install
 
+[DOWNLOAD](https://github.com/ErrorVdept/CodeScrinner/releases/download/1.0/CodeScrinner.zip)
+
+</div>
+
+<br>
+<br>
+
+
+
+
 ## Usage
 
 - Run application
@@ -20,3 +30,5 @@ Download .exe and install
 
 
 > Used this  [this](https://github.com/andrei-m-code/net-core-html-to-image) and  [this](https://github.com/hardcodet/wpf-notifyicon) library
+
+
