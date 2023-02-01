@@ -13,14 +13,6 @@ Download .exe and install
 
 [DOWNLOAD](https://github.com/ErrorVdept/CodeScrinner/releases/download/1.0/CodeScrinner.zip)
 
-</div>
-
-<br>
-<br>
-
-
-
-
 ## Usage
 
 - Run application
