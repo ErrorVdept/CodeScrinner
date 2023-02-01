@@ -1,5 +1,5 @@
 # CodeScrinner
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+![Head](https://github.com/ErrorVdept/CodeScrinner/blob/main/Image.png)
 
 <a href="https://circleci.com/gh/badges/shields/tree/master">
         <img src="https://img.shields.io/circleci/project/github/badges/shields/master" alt="build status"></a>
@@ -17,7 +17,6 @@ Download .exe and install
 - Copy text or code to clipboard
 - Press GENERATE button in software
 - Save screenshot to pc
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+
 
 > Used this  [this](https://github.com/andrei-m-code/net-core-html-to-image) and  [this](https://github.com/hardcodet/wpf-notifyicon) library
