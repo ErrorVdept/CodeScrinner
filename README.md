@@ -19,4 +19,4 @@ Press CTRL + HOME buttons
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
-Used this  [this](https://github.com/andrei-m-code/net-core-html-to-image) and  [this](https://github.com/hardcodet/wpf-notifyicon) library
+> Used this  [this](https://github.com/andrei-m-code/net-core-html-to-image) and  [this](https://github.com/hardcodet/wpf-notifyicon) library
